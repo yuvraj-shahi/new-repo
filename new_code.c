@@ -6,3 +6,4 @@ int main(){
     scanf("%d", &n);
     return 0;
 }
+void name(){}
